@@ -11,7 +11,7 @@ const BestGame= () => {
     <div>
        <Container>
            <br/>
-           <h1 className="text-white text-center" id="trending">TRENDING GAMES</h1>
+           <h1 className="text-white text-center" id="trending"></h1>
            <br/>
            <Row>
                <Col md={4}>
